@@ -1,0 +1,6 @@
+20
+What is the default partitioning scheme when installing CentOS7?
+LVM
+ext4
+ext3
+XFS

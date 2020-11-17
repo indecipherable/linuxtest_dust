@@ -1,0 +1,425 @@
+import _frozen_importlib # frozen
+import _imp # builtin
+import sys # builtin
+import '_warnings' # <class '_frozen_importlib.BuiltinImporter'>
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+import '_frozen_importlib_external' # <class '_frozen_importlib.FrozenImporter'>
+import '_io' # <class '_frozen_importlib.BuiltinImporter'>
+import 'marshal' # <class '_frozen_importlib.BuiltinImporter'>
+import 'posix' # <class '_frozen_importlib.BuiltinImporter'>
+import _thread # previously loaded ('_thread')
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import _weakref # previously loaded ('_weakref')
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+# installing zipimport hook
+import 'zipimport' # <class '_frozen_importlib.BuiltinImporter'>
+# installed zipimport hook
+# /usr/lib/python3.6/encodings/__pycache__/__init__.cpython-36.pyc matches /usr/lib/python3.6/encodings/__init__.py
+# code object from '/usr/lib/python3.6/encodings/__pycache__/__init__.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/codecs.cpython-36.pyc matches /usr/lib/python3.6/codecs.py
+# code object from '/usr/lib/python3.6/__pycache__/codecs.cpython-36.pyc'
+import '_codecs' # <class '_frozen_importlib.BuiltinImporter'>
+import 'codecs' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a5943c8>
+# /usr/lib/python3.6/encodings/__pycache__/aliases.cpython-36.pyc matches /usr/lib/python3.6/encodings/aliases.py
+# code object from '/usr/lib/python3.6/encodings/__pycache__/aliases.cpython-36.pyc'
+import 'encodings.aliases' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a5a1d68>
+import 'encodings' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a605ef0>
+# /usr/lib/python3.6/encodings/__pycache__/utf_8.cpython-36.pyc matches /usr/lib/python3.6/encodings/utf_8.py
+# code object from '/usr/lib/python3.6/encodings/__pycache__/utf_8.cpython-36.pyc'
+import 'encodings.utf_8' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a5afb70>
+import '_signal' # <class '_frozen_importlib.BuiltinImporter'>
+# /usr/lib/python3.6/encodings/__pycache__/latin_1.cpython-36.pyc matches /usr/lib/python3.6/encodings/latin_1.py
+# code object from '/usr/lib/python3.6/encodings/__pycache__/latin_1.cpython-36.pyc'
+import 'encodings.latin_1' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a5b76a0>
+# /usr/lib/python3.6/__pycache__/io.cpython-36.pyc matches /usr/lib/python3.6/io.py
+# code object from '/usr/lib/python3.6/__pycache__/io.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/abc.cpython-36.pyc matches /usr/lib/python3.6/abc.py
+# code object from '/usr/lib/python3.6/__pycache__/abc.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/_weakrefset.cpython-36.pyc matches /usr/lib/python3.6/_weakrefset.py
+# code object from '/usr/lib/python3.6/__pycache__/_weakrefset.cpython-36.pyc'
+import '_weakrefset' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a5bb630>
+import 'abc' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a5b7c88>
+import 'io' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a5b78d0>
+# /usr/lib/python3.6/__pycache__/_bootlocale.cpython-36.pyc matches /usr/lib/python3.6/_bootlocale.py
+# code object from '/usr/lib/python3.6/__pycache__/_bootlocale.cpython-36.pyc'
+import '_locale' # <class '_frozen_importlib.BuiltinImporter'>
+import '_bootlocale' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a5c1da0>
+Python 3.6.9 (default, Jul 17 2020, 12:50:27) 
+[GCC 8.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+# /usr/lib/python3.6/__pycache__/site.cpython-36.pyc matches /usr/lib/python3.6/site.py
+# code object from '/usr/lib/python3.6/__pycache__/site.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/os.cpython-36.pyc matches /usr/lib/python3.6/os.py
+# code object from '/usr/lib/python3.6/__pycache__/os.cpython-36.pyc'
+import 'errno' # <class '_frozen_importlib.BuiltinImporter'>
+# /usr/lib/python3.6/__pycache__/stat.cpython-36.pyc matches /usr/lib/python3.6/stat.py
+# code object from '/usr/lib/python3.6/__pycache__/stat.cpython-36.pyc'
+import '_stat' # <class '_frozen_importlib.BuiltinImporter'>
+import 'stat' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a560780>
+# /usr/lib/python3.6/__pycache__/posixpath.cpython-36.pyc matches /usr/lib/python3.6/posixpath.py
+# code object from '/usr/lib/python3.6/__pycache__/posixpath.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/genericpath.cpython-36.pyc matches /usr/lib/python3.6/genericpath.py
+# code object from '/usr/lib/python3.6/__pycache__/genericpath.cpython-36.pyc'
+import 'genericpath' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a56c198>
+import 'posixpath' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a560e48>
+# /usr/lib/python3.6/__pycache__/_collections_abc.cpython-36.pyc matches /usr/lib/python3.6/_collections_abc.py
+# code object from '/usr/lib/python3.6/__pycache__/_collections_abc.cpython-36.pyc'
+import '_collections_abc' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a56c7f0>
+import 'os' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a5540b8>
+# /usr/lib/python3.6/__pycache__/_sitebuiltins.cpython-36.pyc matches /usr/lib/python3.6/_sitebuiltins.py
+# code object from '/usr/lib/python3.6/__pycache__/_sitebuiltins.cpython-36.pyc'
+import '_sitebuiltins' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a5544a8>
+# /usr/lib/python3.6/__pycache__/sysconfig.cpython-36.pyc matches /usr/lib/python3.6/sysconfig.py
+# code object from '/usr/lib/python3.6/__pycache__/sysconfig.cpython-36.pyc'
+import 'sysconfig' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a523c50>
+# /usr/lib/python3.6/__pycache__/_sysconfigdata_m_linux_x86_64-linux-gnu.cpython-36.pyc matches /usr/lib/python3.6/_sysconfigdata_m_linux_x86_64-linux-gnu.py
+# code object from '/usr/lib/python3.6/__pycache__/_sysconfigdata_m_linux_x86_64-linux-gnu.cpython-36.pyc'
+import '_sysconfigdata_m_linux_x86_64-linux-gnu' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a537518>
+# /usr/lib/python3.6/__pycache__/types.cpython-36.pyc matches /usr/lib/python3.6/types.py
+# code object from '/usr/lib/python3.6/__pycache__/types.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/functools.cpython-36.pyc matches /usr/lib/python3.6/functools.py
+# code object from '/usr/lib/python3.6/__pycache__/functools.cpython-36.pyc'
+import '_functools' # <class '_frozen_importlib.BuiltinImporter'>
+# /usr/lib/python3.6/collections/__pycache__/__init__.cpython-36.pyc matches /usr/lib/python3.6/collections/__init__.py
+# code object from '/usr/lib/python3.6/collections/__pycache__/__init__.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/operator.cpython-36.pyc matches /usr/lib/python3.6/operator.py
+# code object from '/usr/lib/python3.6/__pycache__/operator.cpython-36.pyc'
+import '_operator' # <class '_frozen_importlib.BuiltinImporter'>
+import 'operator' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a501470>
+# /usr/lib/python3.6/__pycache__/keyword.cpython-36.pyc matches /usr/lib/python3.6/keyword.py
+# code object from '/usr/lib/python3.6/__pycache__/keyword.cpython-36.pyc'
+import 'keyword' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a5096d8>
+# /usr/lib/python3.6/__pycache__/heapq.cpython-36.pyc matches /usr/lib/python3.6/heapq.py
+# code object from '/usr/lib/python3.6/__pycache__/heapq.cpython-36.pyc'
+import '_heapq' # <class '_frozen_importlib.BuiltinImporter'>
+import 'heapq' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a509ef0>
+import 'itertools' # <class '_frozen_importlib.BuiltinImporter'>
+# /usr/lib/python3.6/__pycache__/reprlib.cpython-36.pyc matches /usr/lib/python3.6/reprlib.py
+# code object from '/usr/lib/python3.6/__pycache__/reprlib.cpython-36.pyc'
+import 'reprlib' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a505ba8>
+import '_collections' # <class '_frozen_importlib.BuiltinImporter'>
+import 'collections' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a4d9b38>
+# /usr/lib/python3.6/__pycache__/weakref.cpython-36.pyc matches /usr/lib/python3.6/weakref.py
+# code object from '/usr/lib/python3.6/__pycache__/weakref.cpython-36.pyc'
+import 'weakref' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a4d9f28>
+import 'functools' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a54f3c8>
+# /usr/lib/python3.6/collections/__pycache__/abc.cpython-36.pyc matches /usr/lib/python3.6/collections/abc.py
+# code object from '/usr/lib/python3.6/collections/__pycache__/abc.cpython-36.pyc'
+import 'collections.abc' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a4d3080>
+import 'types' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a5466d8>
+# /usr/lib/python3.6/importlib/__pycache__/__init__.cpython-36.pyc matches /usr/lib/python3.6/importlib/__init__.py
+# code object from '/usr/lib/python3.6/importlib/__pycache__/__init__.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/warnings.cpython-36.pyc matches /usr/lib/python3.6/warnings.py
+# code object from '/usr/lib/python3.6/__pycache__/warnings.cpython-36.pyc'
+import 'warnings' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a4d32b0>
+import 'importlib' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a546940>
+# /usr/lib/python3.6/importlib/__pycache__/util.cpython-36.pyc matches /usr/lib/python3.6/importlib/util.py
+# code object from '/usr/lib/python3.6/importlib/__pycache__/util.cpython-36.pyc'
+# /usr/lib/python3.6/importlib/__pycache__/abc.cpython-36.pyc matches /usr/lib/python3.6/importlib/abc.py
+# code object from '/usr/lib/python3.6/importlib/__pycache__/abc.cpython-36.pyc'
+# /usr/lib/python3.6/importlib/__pycache__/machinery.cpython-36.pyc matches /usr/lib/python3.6/importlib/machinery.py
+# code object from '/usr/lib/python3.6/importlib/__pycache__/machinery.cpython-36.pyc'
+import 'importlib.machinery' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a4bb860>
+import 'importlib.abc' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a4bb198>
+# /usr/lib/python3.6/__pycache__/contextlib.cpython-36.pyc matches /usr/lib/python3.6/contextlib.py
+# code object from '/usr/lib/python3.6/__pycache__/contextlib.cpython-36.pyc'
+import 'contextlib' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a4ca2b0>
+import 'importlib.util' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a4abb00>
+# possible namespace for /home/whitemage/.local/lib/python3.6/site-packages/mpl_toolkits
+# possible namespace for /home/whitemage/.local/lib/python3.6/site-packages/mpl_toolkits
+# destroy mpl_toolkits
+# possible namespace for /home/whitemage/.local/lib/python3.6/site-packages/google
+# /usr/lib/python3.6/__pycache__/sitecustomize.cpython-36.pyc matches /usr/lib/python3.6/sitecustomize.py
+# code object from '/usr/lib/python3.6/__pycache__/sitecustomize.cpython-36.pyc'
+# /usr/lib/python3/dist-packages/__pycache__/apport_python_hook.cpython-36.pyc matches /usr/lib/python3/dist-packages/apport_python_hook.py
+# code object from '/usr/lib/python3/dist-packages/__pycache__/apport_python_hook.cpython-36.pyc'
+import 'apport_python_hook' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a460160>
+import 'sitecustomize' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a45c208>
+import 'site' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a5ccd30>
+# /usr/lib/python3.6/__pycache__/random.cpython-36.pyc matches /usr/lib/python3.6/random.py
+# code object from '/usr/lib/python3.6/__pycache__/random.cpython-36.pyc'
+import 'math' # <class '_frozen_importlib.BuiltinImporter'>
+# /usr/lib/python3.6/__pycache__/hashlib.cpython-36.pyc matches /usr/lib/python3.6/hashlib.py
+# code object from '/usr/lib/python3.6/__pycache__/hashlib.cpython-36.pyc'
+# extension module '_hashlib' loaded from '/usr/lib/python3.6/lib-dynload/_hashlib.cpython-36m-x86_64-linux-gnu.so'
+# extension module '_hashlib' executed from '/usr/lib/python3.6/lib-dynload/_hashlib.cpython-36m-x86_64-linux-gnu.so'
+import '_hashlib' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f404a471be0>
+import '_blake2' # <class '_frozen_importlib.BuiltinImporter'>
+import '_sha3' # <class '_frozen_importlib.BuiltinImporter'>
+import 'hashlib' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a471198>
+# /usr/lib/python3.6/__pycache__/bisect.cpython-36.pyc matches /usr/lib/python3.6/bisect.py
+# code object from '/usr/lib/python3.6/__pycache__/bisect.cpython-36.pyc'
+import '_bisect' # <class '_frozen_importlib.BuiltinImporter'>
+import 'bisect' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a471668>
+import '_random' # <class '_frozen_importlib.BuiltinImporter'>
+import 'random' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a460d30>
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/__pycache__/__init__.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/__init__.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/__pycache__/__init__.cpython-36.pyc'
+import 'mysql' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a471828>
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/__init__.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__init__.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/__init__.cpython-36.pyc'
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/__init__.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/__init__.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/__init__.cpython-36.pyc'
+import 'dns' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a4779b0>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/resolver.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/resolver.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/resolver.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/socket.cpython-36.pyc matches /usr/lib/python3.6/socket.py
+# code object from '/usr/lib/python3.6/__pycache__/socket.cpython-36.pyc'
+import '_socket' # <class '_frozen_importlib.BuiltinImporter'>
+# /usr/lib/python3.6/__pycache__/selectors.cpython-36.pyc matches /usr/lib/python3.6/selectors.py
+# code object from '/usr/lib/python3.6/__pycache__/selectors.cpython-36.pyc'
+import 'select' # <class '_frozen_importlib.BuiltinImporter'>
+import 'selectors' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a41e898>
+# /usr/lib/python3.6/__pycache__/enum.cpython-36.pyc matches /usr/lib/python3.6/enum.py
+# code object from '/usr/lib/python3.6/__pycache__/enum.cpython-36.pyc'
+import 'enum' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a42d0f0>
+import 'socket' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a48f438>
+import 'time' # <class '_frozen_importlib.BuiltinImporter'>
+# /usr/lib/python3.6/__pycache__/threading.cpython-36.pyc matches /usr/lib/python3.6/threading.py
+# code object from '/usr/lib/python3.6/__pycache__/threading.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/traceback.cpython-36.pyc matches /usr/lib/python3.6/traceback.py
+# code object from '/usr/lib/python3.6/__pycache__/traceback.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/linecache.cpython-36.pyc matches /usr/lib/python3.6/linecache.py
+# code object from '/usr/lib/python3.6/__pycache__/linecache.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/tokenize.cpython-36.pyc matches /usr/lib/python3.6/tokenize.py
+# code object from '/usr/lib/python3.6/__pycache__/tokenize.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/re.cpython-36.pyc matches /usr/lib/python3.6/re.py
+# code object from '/usr/lib/python3.6/__pycache__/re.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/sre_compile.cpython-36.pyc matches /usr/lib/python3.6/sre_compile.py
+# code object from '/usr/lib/python3.6/__pycache__/sre_compile.cpython-36.pyc'
+import '_sre' # <class '_frozen_importlib.BuiltinImporter'>
+# /usr/lib/python3.6/__pycache__/sre_parse.cpython-36.pyc matches /usr/lib/python3.6/sre_parse.py
+# code object from '/usr/lib/python3.6/__pycache__/sre_parse.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/sre_constants.cpython-36.pyc matches /usr/lib/python3.6/sre_constants.py
+# code object from '/usr/lib/python3.6/__pycache__/sre_constants.cpython-36.pyc'
+import 'sre_constants' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047bab128>
+import 'sre_parse' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047c1c908>
+import 'sre_compile' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047c16ac8>
+# /usr/lib/python3.6/__pycache__/copyreg.cpython-36.pyc matches /usr/lib/python3.6/copyreg.py
+# code object from '/usr/lib/python3.6/__pycache__/copyreg.cpython-36.pyc'
+import 'copyreg' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047bb70b8>
+import 're' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047c11b70>
+# /usr/lib/python3.6/__pycache__/token.cpython-36.pyc matches /usr/lib/python3.6/token.py
+# code object from '/usr/lib/python3.6/__pycache__/token.cpython-36.pyc'
+import 'token' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047bb7390>
+import 'tokenize' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047c0a240>
+import 'linecache' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047c00eb8>
+import 'traceback' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047bf9dd8>
+import 'threading' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047bea518>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/exception.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/exception.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/exception.cpython-36.pyc'
+import 'dns.exception' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047c0aef0>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/flags.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/flags.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/flags.cpython-36.pyc'
+import 'dns.flags' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047bd6550>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/ipv4.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/ipv4.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/ipv4.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/struct.cpython-36.pyc matches /usr/lib/python3.6/struct.py
+# code object from '/usr/lib/python3.6/__pycache__/struct.cpython-36.pyc'
+import '_struct' # <class '_frozen_importlib.BuiltinImporter'>
+import 'struct' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047bc6e10>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/_compat.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/_compat.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/_compat.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/decimal.cpython-36.pyc matches /usr/lib/python3.6/decimal.py
+# code object from '/usr/lib/python3.6/__pycache__/decimal.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/numbers.cpython-36.pyc matches /usr/lib/python3.6/numbers.py
+# code object from '/usr/lib/python3.6/__pycache__/numbers.cpython-36.pyc'
+import 'numbers' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047bdf2b0>
+# extension module '_decimal' loaded from '/usr/lib/python3.6/lib-dynload/_decimal.cpython-36m-x86_64-linux-gnu.so'
+# extension module '_decimal' executed from '/usr/lib/python3.6/lib-dynload/_decimal.cpython-36m-x86_64-linux-gnu.so'
+import '_decimal' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f4047bd9b70>
+import 'decimal' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047bd9908>
+import 'dns._compat' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047bd9208>
+import 'dns.ipv4' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047bc6b38>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/ipv6.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/ipv6.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/ipv6.cpython-36.pyc'
+import 'binascii' # <class '_frozen_importlib.BuiltinImporter'>
+import 'dns.ipv6' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047bd9748>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/message.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/message.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/message.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/__future__.cpython-36.pyc matches /usr/lib/python3.6/__future__.py
+# code object from '/usr/lib/python3.6/__pycache__/__future__.cpython-36.pyc'
+import '__future__' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047712c18>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/edns.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/edns.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/edns.cpython-36.pyc'
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/inet.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/inet.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/inet.cpython-36.pyc'
+import 'dns.inet' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047724c18>
+import 'dns.edns' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047724160>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/name.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/name.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/name.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/copy.cpython-36.pyc matches /usr/lib/python3.6/copy.py
+# code object from '/usr/lib/python3.6/__pycache__/copy.cpython-36.pyc'
+import 'copy' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40477365c0>
+# /usr/lib/python3.6/encodings/__pycache__/idna.cpython-36.pyc matches /usr/lib/python3.6/encodings/idna.py
+# code object from '/usr/lib/python3.6/encodings/__pycache__/idna.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/stringprep.cpython-36.pyc matches /usr/lib/python3.6/stringprep.py
+# code object from '/usr/lib/python3.6/__pycache__/stringprep.cpython-36.pyc'
+import 'unicodedata' # <class '_frozen_importlib.BuiltinImporter'>
+import 'stringprep' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047736e48>
+import 'encodings.idna' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047736a58>
+# /home/whitemage/.local/lib/python3.6/site-packages/idna/__pycache__/__init__.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/idna/__init__.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/idna/__pycache__/__init__.cpython-36.pyc'
+# /home/whitemage/.local/lib/python3.6/site-packages/idna/__pycache__/package_data.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/idna/package_data.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/idna/__pycache__/package_data.cpython-36.pyc'
+import 'idna.package_data' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40476cb550>
+# /home/whitemage/.local/lib/python3.6/site-packages/idna/__pycache__/core.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/idna/core.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/idna/__pycache__/core.cpython-36.pyc'
+# /home/whitemage/.local/lib/python3.6/site-packages/idna/__pycache__/idnadata.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/idna/idnadata.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/idna/__pycache__/idnadata.cpython-36.pyc'
+import 'idna.idnadata' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40476d6198>
+# /home/whitemage/.local/lib/python3.6/site-packages/idna/__pycache__/intranges.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/idna/intranges.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/idna/__pycache__/intranges.cpython-36.pyc'
+import 'idna.intranges' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40476d62e8>
+import 'idna.core' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40476cb630>
+import 'idna' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047736d30>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/wiredata.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/wiredata.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/wiredata.cpython-36.pyc'
+import 'dns.wiredata' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40476cb5f8>
+import 'dns.name' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047724dd8>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/opcode.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/opcode.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/opcode.cpython-36.pyc'
+import 'dns.opcode' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047724e80>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/entropy.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/entropy.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/entropy.cpython-36.pyc'
+import 'dns.entropy' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40476d6b00>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/rcode.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/rcode.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/rcode.cpython-36.pyc'
+import 'dns.rcode' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40476d6f98>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/rdata.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/rdata.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/rdata.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/base64.cpython-36.pyc matches /usr/lib/python3.6/base64.py
+# code object from '/usr/lib/python3.6/__pycache__/base64.cpython-36.pyc'
+import 'base64' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40476f5dd8>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/rdataclass.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/rdataclass.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/rdataclass.cpython-36.pyc'
+import 'dns.rdataclass' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047700d30>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/rdatatype.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/rdatatype.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/rdatatype.cpython-36.pyc'
+import 'dns.rdatatype' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047700f98>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/tokenizer.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/tokenizer.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/tokenizer.cpython-36.pyc'
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/ttl.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/ttl.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/ttl.cpython-36.pyc'
+import 'dns.ttl' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404768fcc0>
+import 'dns.tokenizer' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047689f60>
+import 'dns.rdata' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40476f5358>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/rrset.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/rrset.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/rrset.cpython-36.pyc'
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/rdataset.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/rdataset.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/rdataset.cpython-36.pyc'
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/set.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/set.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/set.cpython-36.pyc'
+import 'dns.set' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40476a00b8>
+import 'dns.rdataset' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404769b710>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/renderer.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/renderer.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/renderer.cpython-36.pyc'
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/tsig.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/tsig.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/tsig.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/hmac.cpython-36.pyc matches /usr/lib/python3.6/hmac.py
+# code object from '/usr/lib/python3.6/__pycache__/hmac.cpython-36.pyc'
+import 'hmac' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40476abba8>
+import 'dns.tsig' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40476ab320>
+import 'dns.renderer' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40476a0c50>
+import 'dns.rrset' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404768fe10>
+import 'dns.message' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404770cd30>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/query.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/query.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/query.cpython-36.pyc'
+import 'dns.query' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404770ce48>
+# /home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/reversename.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/dns/reversename.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/dns/__pycache__/reversename.cpython-36.pyc'
+import 'dns.reversename' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40476b1a58>
+import 'dns.resolver' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a4800b8>
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/version.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/version.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/version.cpython-36.pyc'
+import 'mysql.connector.version' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40476b1f98>
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/connection.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/connection.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/connection.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/platform.cpython-36.pyc matches /usr/lib/python3.6/platform.py
+# code object from '/usr/lib/python3.6/__pycache__/platform.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/subprocess.cpython-36.pyc matches /usr/lib/python3.6/subprocess.py
+# code object from '/usr/lib/python3.6/__pycache__/subprocess.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/signal.cpython-36.pyc matches /usr/lib/python3.6/signal.py
+# code object from '/usr/lib/python3.6/__pycache__/signal.cpython-36.pyc'
+import 'signal' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047671080>
+import '_posixsubprocess' # <class '_frozen_importlib.BuiltinImporter'>
+import 'subprocess' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404765a860>
+import 'platform' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404764c7f0>
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/authentication.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/authentication.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/authentication.cpython-36.pyc'
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/errors.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/errors.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/errors.cpython-36.pyc'
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/utils.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/utils.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/utils.cpython-36.pyc'
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/catch23.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/catch23.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/catch23.cpython-36.pyc'
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/custom_types.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/custom_types.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/custom_types.cpython-36.pyc'
+import 'mysql.connector.custom_types' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047605a90>
+import 'mysql.connector.catch23' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40476055f8>
+import 'mysql.connector.utils' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40476109b0>
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/locales/__pycache__/__init__.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/locales/__init__.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/locales/__pycache__/__init__.cpython-36.pyc'
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/errorcode.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/errorcode.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/errorcode.cpython-36.pyc'
+import 'mysql.connector.errorcode' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047605e10>
+import 'mysql.connector.locales' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047605978>
+import 'mysql.connector.errors' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047671c50>
+import 'mysql.connector.authentication' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047666898>
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/constants.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/constants.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/constants.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/ssl.cpython-36.pyc matches /usr/lib/python3.6/ssl.py
+# code object from '/usr/lib/python3.6/__pycache__/ssl.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/ipaddress.cpython-36.pyc matches /usr/lib/python3.6/ipaddress.py
+# code object from '/usr/lib/python3.6/__pycache__/ipaddress.cpython-36.pyc'
+import 'ipaddress' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047c64240>
+# /usr/lib/python3.6/__pycache__/textwrap.cpython-36.pyc matches /usr/lib/python3.6/textwrap.py
+# code object from '/usr/lib/python3.6/__pycache__/textwrap.cpython-36.pyc'
+import 'textwrap' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40474c7908>
+# extension module '_ssl' loaded from '/usr/lib/python3.6/lib-dynload/_ssl.cpython-36m-x86_64-linux-gnu.so'
+# extension module '_ssl' executed from '/usr/lib/python3.6/lib-dynload/_ssl.cpython-36m-x86_64-linux-gnu.so'
+import '_ssl' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f40474cebe0>
+import 'ssl' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047c4b0b8>
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/charsets.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/charsets.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/charsets.cpython-36.pyc'
+import 'mysql.connector.charsets' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047c4b550>
+import 'mysql.connector.constants' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047671ac8>
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/conversion.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/conversion.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/conversion.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/datetime.cpython-36.pyc matches /usr/lib/python3.6/datetime.py
+# code object from '/usr/lib/python3.6/__pycache__/datetime.cpython-36.pyc'
+import '_datetime' # <class '_frozen_importlib.BuiltinImporter'>
+import 'datetime' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404728a198>
+import 'mysql.connector.conversion' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404727cf28>
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/cursor.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/cursor.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/cursor.cpython-36.pyc'
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/abstracts.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/abstracts.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/abstracts.cpython-36.pyc'
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/optionfiles.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/optionfiles.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/optionfiles.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/configparser.cpython-36.pyc matches /usr/lib/python3.6/configparser.py
+# code object from '/usr/lib/python3.6/__pycache__/configparser.cpython-36.pyc'
+import 'configparser' # <_frozen_importlib_external.SourceFileLoader object at 0x7f4047297a90>
+import 'mysql.connector.optionfiles' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404729f518>
+import 'mysql.connector.abstracts' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404724a390>
+import 'mysql.connector.cursor' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404728a0f0>
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/network.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/network.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/network.cpython-36.pyc'
+import 'zlib' # <class '_frozen_importlib.BuiltinImporter'>
+import 'mysql.connector.network' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40471fa0b8>
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/protocol.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/protocol.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/protocol.cpython-36.pyc'
+import 'mysql.connector.protocol' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40471ff278>
+import 'mysql.connector.connection' # <_frozen_importlib_external.SourceFileLoader object at 0x7f40476c2048>
+# /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/dbapi.cpython-36.pyc matches /home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/dbapi.py
+# code object from '/home/whitemage/.local/lib/python3.6/site-packages/mysql/connector/__pycache__/dbapi.cpython-36.pyc'
+import 'mysql.connector.dbapi' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404720a128>
+import 'mysql.connector' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404a4717f0>
+# /usr/lib/python3.6/__pycache__/glob.cpython-36.pyc matches /usr/lib/python3.6/glob.py
+# code object from '/usr/lib/python3.6/__pycache__/glob.cpython-36.pyc'
+# /usr/lib/python3.6/__pycache__/fnmatch.cpython-36.pyc matches /usr/lib/python3.6/fnmatch.py
+# code object from '/usr/lib/python3.6/__pycache__/fnmatch.cpython-36.pyc'
+import 'fnmatch' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404720a978>
+import 'glob' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404720a438>
+Which section do you want to do? 

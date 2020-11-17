@@ -1,0 +1,6 @@
+19
+Which comand can modify read, write, and execute permissions for a file?
+$ chmod
+$ chown
+$ file
+$ whois

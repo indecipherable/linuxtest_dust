@@ -1,0 +1,6 @@
+08
+Which find options find and remove empty files and directories?
+$ find -empty -delete
+$ find empty -remove
+$ find -empty -clean
+$ find -empty -cycle

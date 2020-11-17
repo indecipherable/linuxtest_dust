@@ -1,0 +1,6 @@
+20
+Which `passwd -S` letter indicates that an account is currently unlocked?
+U
+L
+P
+A

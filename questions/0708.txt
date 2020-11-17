@@ -1,0 +1,6 @@
+07
+Which dnf command checks for updates?
+$ dnf check-update
+$ dnf --update-check
+$ dnf --list-update
+$ dnf --get-list -updates

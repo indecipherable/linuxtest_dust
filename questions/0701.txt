@@ -1,0 +1,6 @@
+07
+Which yum option displays system packages?
+$ yum list
+$ yum --display
+$ yum --list
+$ yum --verbose

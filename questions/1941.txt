@@ -1,0 +1,6 @@
+19
+Which `rpm` option removes a package?
+$ rpm -e [package]
+$ rpm -d [package]
+$ rpm -r [package]
+$ rpm -a [package]

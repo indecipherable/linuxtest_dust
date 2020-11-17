@@ -1,0 +1,6 @@
+11
+In which directory are XDM configuration files stored?
+/etc/X11/xdm
+/etc/XDM/xdm
+/etc/X1/xdm
+/etc/XM/xdm

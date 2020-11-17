@@ -1,0 +1,6 @@
+20
+What file can hold the default display manager in an Ubuntu distribution?
+/etc/X11/default-display-manager
+/etc/X11/display/default-manager
+/etc/X11/default-manager/display
+/etc/X11/default-display/manager

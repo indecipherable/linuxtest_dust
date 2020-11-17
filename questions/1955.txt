@@ -1,0 +1,6 @@
+19
+Which `locate` option ignores case when searching?
+$ locate -i
+$ locate --ignore
+$ locate --no-case
+$ locate -c

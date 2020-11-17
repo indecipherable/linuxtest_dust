@@ -1,0 +1,5 @@
+# code object from '/usr/lib/python3.6/__pycache__/fnmatch.cpython-36.pyc'
+import 'fnmatch' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404720a978>
+import 'glob' # <_frozen_importlib_external.SourceFileLoader object at 0x7f404720a438>
+Which section do you want to do? 2
+

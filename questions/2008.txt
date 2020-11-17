@@ -1,0 +1,6 @@
+20
+Which number type represents an NTFS partition using `fdisk`?
+7
+8
+6
+5

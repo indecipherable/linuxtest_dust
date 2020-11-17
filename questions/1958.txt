@@ -1,0 +1,6 @@
+19
+Which command can output to display and a file simultaneously?
+$ tee
+$ cat
+$ echo
+$ pause

@@ -1,0 +1,6 @@
+20
+Which of the following specifies only informational messages sent to rsyslog server?
+*.info
+info.*
+*.message-type=informational
+message*.type=information

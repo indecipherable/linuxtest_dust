@@ -1,0 +1,6 @@
+03
+Which command shows default default boot target?
+$ systemctl get-default
+$ systemctl set-default
+$ systemctl-default
+$ systemctl-get-default

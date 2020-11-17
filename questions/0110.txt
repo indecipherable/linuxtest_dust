@@ -1,0 +1,6 @@
+01
+Which command is used to install a module without specifying absolute path?
+$ modprobe
+$ rmmod
+$ modules
+$ modrm

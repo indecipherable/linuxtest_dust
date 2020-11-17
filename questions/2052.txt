@@ -1,0 +1,6 @@
+20
+Which `ip` option shows statistics (CRC errors, etc)?
+$ ip -a -s link ls ens3
+$ ip a -a link ls ens33
+$ ip a -s -s link ens33
+$ ip a -a -s link ls ens33

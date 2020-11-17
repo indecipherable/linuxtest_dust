@@ -1,0 +1,6 @@
+03
+Which command displays the status of a target?
+$ systemctl status multi-user.target
+$ systemctl status-multi-user.target
+$ systemctl-status multi-user.target
+$ systemctl-status-multiuser.target

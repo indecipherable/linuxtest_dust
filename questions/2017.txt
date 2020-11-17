@@ -1,0 +1,6 @@
+20
+Which `useradd` option displays defaults for a new user?
+-D
+-d
+-c
+-s

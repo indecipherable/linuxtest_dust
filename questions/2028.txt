@@ -1,0 +1,6 @@
+20
+Which port does HTTPS use?
+443
+80
+21
+69

@@ -1,0 +1,6 @@
+20
+Which file holds actual hashed passwords for users?
+/etc/shadow
+/etc/passwd
+/etc/gshadow
+/etc/hidden/password

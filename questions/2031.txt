@@ -1,0 +1,6 @@
+20
+Which port does TFTP use?
+69
+21
+53
+443

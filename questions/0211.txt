@@ -1,0 +1,6 @@
+02
+Which letter key is used to edit an entry in realtime at the GRUB boot menu?
+E
+C
+B
+A

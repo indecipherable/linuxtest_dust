@@ -1,0 +1,6 @@
+08
+Which command prints the contents of a directory?
+$ ls
+$ which
+$ whereis
+$ cat [file]

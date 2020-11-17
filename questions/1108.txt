@@ -1,0 +1,6 @@
+11
+Which command is used to change between display managers in Ubuntu 10?
+$ dpkg-reconfigure
+$ system-switcher
+$ apt-cache
+$ chage

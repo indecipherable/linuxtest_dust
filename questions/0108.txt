@@ -1,0 +1,6 @@
+01
+Which devices file discards messages sent to it?
+/dev/null
+/dev/discard
+/dev/redirect
+/dev/zero

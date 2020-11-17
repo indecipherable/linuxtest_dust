@@ -1,0 +1,6 @@
+18
+To execute a script in the current directory, which characters must precede the script name?
+./script.sh
+:/script.sh
+;/script.sh
+"/script.sh

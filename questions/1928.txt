@@ -1,0 +1,6 @@
+19
+Which character must be placed in front of a variable to reference it?
+$
+#
+!
+&

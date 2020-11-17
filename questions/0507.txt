@@ -1,0 +1,6 @@
+05
+Why separate /boot from other partitions?
+To prevent system damage by accidental /boot modification
+To download videos in /boot
+To prove we know how to partition
+To prove all system files are installed in /boot

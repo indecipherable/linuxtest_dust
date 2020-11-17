@@ -1,0 +1,6 @@
+| session_id    | int(11)   | NO   | PRI | NULL              | auto_increment |
+| q_count       | int(2)    | YES  |     | NULL              |                |
+| q_correct     | int(2)    | YES  |     | NULL              |                |
+| q_unsure      | int(2)    | YES  |     | NULL              |                |
+| test_start    | date      | YES  |     | NULL              |                |
+| test_complete | timestamp | NO   |     | CURRENT_TIMESTAMP |                |

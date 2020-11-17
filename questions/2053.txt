@@ -1,0 +1,6 @@
+20
+Which mysql statement is correct for sorting output descending?
+select * from Public_Places order by service_provided DESC;
+select * from Public_Places order by service_provided;
+select * from Public_Places DESC order by service_provided;
+select DESC * from Public_Places order by service_provided;

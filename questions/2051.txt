@@ -1,0 +1,6 @@
+20
+Which option represents a /28 subnet mask in dotted decimal format?
+255.255.255.240
+255.255.255.224
+255.255.254.240
+255.255.255.248

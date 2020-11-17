@@ -1,0 +1,6 @@
+17
+Which user password is requested when we use `su` without options?
+root user
+current user
+SSH passphrase
+sudo user

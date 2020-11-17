@@ -1,0 +1,6 @@
+07
+Which rpm command exposes information for a package before it is installed?
+$ rpm -qip
+$ rpm -qa
+$ rpm -qic
+$ rpm -qe

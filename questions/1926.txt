@@ -1,0 +1,6 @@
+19
+Which of the following timer values would run a cron job at 5 AM every day?
+* 5 * * *
+0/5 * * * *
+* * 5 * *
+* * * 5 *

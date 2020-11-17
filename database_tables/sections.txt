@@ -1,0 +1,2 @@
+| sec_id   | int(2)      | NO   | PRI | NULL    |       |
+| sec_name | varchar(64) | YES  |     | NULL    |       |

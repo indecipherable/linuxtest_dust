@@ -1,0 +1,6 @@
+19
+Which represents a default IPv6 route?
+::/0
+0:1:1:1:1:1:1:1/128
+:0::/0
+:1::/0

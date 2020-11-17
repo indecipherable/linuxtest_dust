@@ -1,0 +1,6 @@
+12
+Which configuration file stores commands executed?
+~/.bash_history
+~/.history
+/etc/skel/.bash_history
+/etc/skel/.logout

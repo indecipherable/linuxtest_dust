@@ -1,0 +1,6 @@
+09
+Which top command can specify the user?
+$ top -u
+$ top -p
+$ top -v
+$ top -a

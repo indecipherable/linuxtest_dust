@@ -1,0 +1,6 @@
+19
+Which of the following properly notes /bin/sh in the first line of a script?
+#!/bin/sh
+@!/bin/sh
+#%/bin/sh
+@#/bin/sh

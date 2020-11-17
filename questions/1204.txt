@@ -1,0 +1,6 @@
+12
+Which option prints defaults for a new user with `useradd`?
+$ useradd -D
+$ useradd --defaults
+$ useradd -d
+$ useradd -b

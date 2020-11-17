@@ -1,0 +1,1 @@
+INSERT INTO questions (q_id,sec_id,question,correct_a,incorrect_1,incorrect_2,incorrect_3,incorrect_4,created_at) VALUES ('7','19','Which directory in Ubuntu 18 stores GRUB configuration files?','/boot/grub/','/boot/grub2/','/var','/etc/default/grub',NULL,CURRENT_TIMESTAMP());

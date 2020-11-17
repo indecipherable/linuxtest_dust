@@ -1,0 +1,6 @@
+20
+Which shell scripting keyword enables the user to test for other confitions if the if clause is not met?
+elif
+elseif
+else
+fi

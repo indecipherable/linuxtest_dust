@@ -1,0 +1,6 @@
+19
+Which `ls` option is used to view hidden file and directories?
+$ ls -a
+$ ls -l
+$ ls -s
+$ ls -r

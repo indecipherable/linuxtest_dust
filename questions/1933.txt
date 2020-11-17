@@ -1,0 +1,6 @@
+19
+Which is the default runlevel on a CentOS5 system using SysV init?
+5
+4
+2
+1

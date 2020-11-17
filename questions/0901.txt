@@ -1,0 +1,6 @@
+09
+Which command prints processes started in a new terminal?
+$ ps
+$ pkill
+$ chmod
+$ chage

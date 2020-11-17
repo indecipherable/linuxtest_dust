@@ -1,0 +1,6 @@
+20
+Which command creates a group?
+$ groupadd
+$ add-group
+$ add -G
+$ group -G

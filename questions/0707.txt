@@ -1,0 +1,6 @@
+07
+Which dnf command is used to display both enabled and disabled repositories?
+$ dnf repolist all
+$ dnf --repo-list
+$ dnf list repo
+$ dnf --repo-list --all

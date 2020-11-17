@@ -1,0 +1,6 @@
+20
+Which of the following is the configuration file for rsyslog?
+/etc/rsyslog.conf
+/etc/rsyslog.d/rsyslog.conf
+/etc/rsyslog/rsyslog.conf
+/etc/rsyslog.d/rsyslog.service

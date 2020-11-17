@@ -1,0 +1,6 @@
+15
+What does a link-local address start with?
+fe80::/10
+ff00::/8
+fcd00::128
+fc00::/10

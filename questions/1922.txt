@@ -1,0 +1,6 @@
+19
+In which directory should a script to be executed hourly be copied?
+/etc/cron.hourly/
+/etc/crond.hourly
+/etc/crond/hourly/jobs
+/etc/cron/hourly/

@@ -1,0 +1,6 @@
+19
+Which command can be used to change the niceness of a running program without stopping it?
+$ renice
+$ nice
+$ touch
+$ updatedb

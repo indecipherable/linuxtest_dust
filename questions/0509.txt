@@ -1,0 +1,6 @@
+05
+Which command is used to install GRUB if a Windows installation removed GRUB during dual boot install?
+$ grub-install
+$ grub
+$ grub-update
+$ grub-configure

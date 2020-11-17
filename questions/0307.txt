@@ -1,0 +1,6 @@
+03
+Which other command can change runlevel?
+$ telinit
+$ runlevel
+$ shutdown
+$ telint

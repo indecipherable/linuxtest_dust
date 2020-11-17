@@ -1,0 +1,6 @@
+01
+Which `free` option displays memory in a friendly format?
+$ free -h
+$ free -F
+$ free -L
+$ free -free

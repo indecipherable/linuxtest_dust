@@ -1,0 +1,6 @@
+19
+Which bit must be turned on in order for a script to be able to be run?
+execute
+read
+write
+read and write

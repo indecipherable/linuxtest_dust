@@ -1,0 +1,6 @@
+20
+Which `who` option displays the date when the system is booted up?
+$ who -a
+$ who -c
+$ who -r
+$ who -e

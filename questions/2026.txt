@@ -1,0 +1,6 @@
+20
+Which option specifies group ID?
+$ groupadd -g [id]
+$ groupadd -G [id]
+$ groupadd --group [id]
+$ groupadd --group-new [id]

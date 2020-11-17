@@ -1,0 +1,6 @@
+19
+Which comparison operator compares whether one condition is equivalent to another?
+=
+==
+!=
+=!

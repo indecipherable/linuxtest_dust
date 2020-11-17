@@ -1,0 +1,6 @@
+16
+Which command displays registry information for a given domain?
+$ whois
+$ who
+$ whoami
+$ w

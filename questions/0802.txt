@@ -1,0 +1,6 @@
+08
+Which command changes to another directory?
+$ cd [dir]
+$ pwd
+$ chage [dir]
+$ change dir [dir]

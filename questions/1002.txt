@@ -1,0 +1,6 @@
+10
+Which `ps` column represents process niceness?
+NI
+ni
+N1
+nice

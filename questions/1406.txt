@@ -1,0 +1,6 @@
+14
+`tzconfig` is replaced by which command in Ubuntu?
+$ tzdata
+$ tzclock
+$ tzzone
+$ tztime

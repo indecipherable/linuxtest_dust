@@ -1,0 +1,6 @@
+17
+Which command generates an SSH keypair?
+$ ssh-keygen
+$ ssh-key-gen
+$ ssh-create-key
+$ ssh-key

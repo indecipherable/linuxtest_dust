@@ -1,0 +1,6 @@
+04
+Which CLI command mounts a partition?
+$ mount /dev/sdx1
+$ mnt /deb/sdx1
+$ mt /dev/sdx1
+$ mont /dev/sdx1

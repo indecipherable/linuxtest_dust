@@ -1,0 +1,6 @@
+19
+Which `rpm` option queries for a package?
+$ rpm -q [package]
+$ rpm -e [package]
+$ rpm -r [package]
+$ rpm -a [package]

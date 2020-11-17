@@ -1,0 +1,6 @@
+07
+Which rpm command removes a package?
+$ rpm --erase [package]
+$ rpm --remove [package]
+$ rpm --delete [package]
+$ aptitude --purge

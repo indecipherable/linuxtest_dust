@@ -1,0 +1,6 @@
+20
+Which `passwd` option is used to display current account status information?
+--status
+-a
+-s
+--list-status

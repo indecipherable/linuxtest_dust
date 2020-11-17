@@ -1,0 +1,6 @@
+08
+Which command displays command output and saves results to a file?
+$ tee
+$ less
+$ more
+$ wc

@@ -1,0 +1,6 @@
+14
+Which command sets the time zone?
+$ tzselect
+$ tzsync
+$ tzdate
+$ tztime

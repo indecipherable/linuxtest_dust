@@ -1,0 +1,6 @@
+08
+Which ls options display hidden files and directories?
+$ ls -a
+$ ls -l
+$ ls -b
+$ ls -u

@@ -1,0 +1,6 @@
+11
+Which command identifies the current display manager in Fedora 28?
+$ ls -l /etc/systemd/system/display-manager.service
+$ ls -l /etc/systemd/system/display.manager.service
+$ ls -l /etc/systemd/system/dm.service
+$ ls -l /etc/systemd/system/display.service

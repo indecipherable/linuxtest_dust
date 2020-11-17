@@ -1,0 +1,6 @@
+17
+Which command can launch another command each time a rule is activated in /etc/hosts.allow?
+spawn
+log
+ALL
+deny

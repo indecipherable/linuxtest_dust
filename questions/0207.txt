@@ -1,0 +1,6 @@
+02
+Which command lists hardware drivers loaded during system boot?
+$ dmesg
+$ cat /var/log/messages
+$ tail -f /var/log/startup
+$ head /var/messages

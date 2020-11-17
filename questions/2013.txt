@@ -1,0 +1,6 @@
+20
+Which option allows the user to define the user, uid, and gid with the `mount` command?
+$ mount -o
+$ mount -v
+$ mount -t
+$ mount -u

@@ -1,0 +1,6 @@
+20
+Which directory would be used to add a custom boot entry for GRUB2?
+/etc/grub.d/
+/etc/grub/default/custom
+/etc/default/grub
+/etc/default/grub-custom

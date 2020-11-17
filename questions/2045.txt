@@ -1,0 +1,6 @@
+20
+Which `sudo` option sets the SELinux role for context execution?
+sudo -r [context]
+sudo -l [context]
+sudo -a [context]
+sudo -k [context]

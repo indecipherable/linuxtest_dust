@@ -1,0 +1,6 @@
+12
+Which configuration file clears the screen when user signs out of the system?
+/etc.skel/.bash_logout
+/etc/skel/.logout
+/etc/skel/bash_logout
+/etc/skel/.bashlogout

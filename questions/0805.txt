@@ -1,0 +1,6 @@
+08
+Which ls options display file and directory permissions?
+$ ls -l
+$ ls -r
+$ ls -b
+$ ls -a

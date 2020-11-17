@@ -1,0 +1,6 @@
+03
+Which runlevel is GUI in CentOS?
+5
+1
+2
+3

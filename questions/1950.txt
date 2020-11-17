@@ -1,0 +1,6 @@
+19
+Which of the following represents a Class B subnet mask?
+255.255.0.0
+255.255.255.128
+255.254.255.0
+255.253.255.0

@@ -1,0 +1,6 @@
+07
+Which command updates the yum cache?
+$ yum makecache fast
+$ yum cache --update
+$ yum -update --cache
+$ yum -make --list

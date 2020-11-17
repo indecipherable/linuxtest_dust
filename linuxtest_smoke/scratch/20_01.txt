@@ -1,0 +1,9 @@
+RUN: section score for section id '20':
+-- section_q_count: 60
+-- correct_a_count: 38
+-- incorrect_a_count: 19
+-- unknown_count: 3
+---- incorrect_questions:
+[(68,), (74,), (75,), (96,), (102,), (112,), (115,), (125,), (134,), (143,), (144,), (149,), (170,), (174,), (187,), (219,), (226,), (286,), (293,)]
+---- unknown_questions:
+[(233,), (241,), (245,)]

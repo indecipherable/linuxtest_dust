@@ -1,0 +1,6 @@
+13
+Which anacron option forces jobs to run before schedule?
+$ anacron -f
+$ anacron -e
+$ anacron -c
+$ anacron -a

@@ -1,0 +1,6 @@
+03
+Which command prints current runlevel in Ubuntu distribution?
+runlevel
+run-level
+systemdctl
+who -b

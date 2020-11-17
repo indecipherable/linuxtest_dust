@@ -1,0 +1,6 @@
+19
+Which number can be used to restart a system using `init`?
+6
+2
+1
+0

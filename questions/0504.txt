@@ -1,0 +1,6 @@
+05
+During fresh Ubuntu install, when downloading updates, what is required?
+An active internet connection
+Complex coding
+Copying files from installation  media onto HDD/SDD
+No requirements`

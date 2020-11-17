@@ -1,0 +1,6 @@
+06
+Which option displays packages which are actually installed by dpkg?
+$ dpkg --get-selections
+$ dpkg -set-selections
+$ dpkg -get-selection
+$ dpkg-query -get-selection

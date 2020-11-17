@@ -1,0 +1,6 @@
+06
+Which command searches the cache for a package?
+$ apt-cache search [package]
+$ apt-get search [package]
+$ apt-get -update
+$ apt-get clean

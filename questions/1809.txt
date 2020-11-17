@@ -1,0 +1,6 @@
+18
+Which of the following create a table using mysql?
+CREATE TABLE
+create tables
+CREATE TABLES
+CREATE TABLEs

@@ -1,0 +1,6 @@
+19
+Which `find` option can be used to search for permissions?
+$ find -perm
+$ find --permissions
+$ find --perms
+$ find --view-permissions

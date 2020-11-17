@@ -1,0 +1,6 @@
+19
+Which `mysql` option allows the user to pass a command?
+-e
+-a
+-c
+-b

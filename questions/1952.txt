@@ -1,0 +1,6 @@
+19
+Which character is used to switch to user\'s home directory?
+$ cd ~
+$ cd `
+$ cd \'
+$ cd !

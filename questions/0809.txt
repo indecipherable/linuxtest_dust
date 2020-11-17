@@ -1,0 +1,6 @@
+08
+Which locate options update the locate database?
+$ updatedb
+$ updatelocate
+$ updatedatabase
+$ locateupdate

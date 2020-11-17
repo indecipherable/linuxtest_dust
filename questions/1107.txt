@@ -1,0 +1,6 @@
+11
+Which KDM login prompt option selects which desktop to load?
+Session Type
+Desktop Type
+Login Desktop Type
+Session Desktop

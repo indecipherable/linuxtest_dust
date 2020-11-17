@@ -1,0 +1,6 @@
+18
+Which command is used as a wildcard with select in mysql?
+*
++
+/
+-

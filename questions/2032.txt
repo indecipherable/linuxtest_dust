@@ -1,0 +1,6 @@
+20
+Which `netstat` options show process name and process ID?
+$ netstat -p
+$ netstat -r
+$ netstat -a
+$ netstat -l

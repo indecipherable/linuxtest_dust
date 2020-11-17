@@ -1,0 +1,6 @@
+09
+Which ps option prints all processes running?
+$ ps -e
+$ ps -x
+$ ps -B
+$ ps -b

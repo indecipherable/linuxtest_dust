@@ -1,0 +1,8 @@
+| questionStats | CREATE TABLE `test_questionStats` (
+  `result_id` int(11) NOT NULL AUTO_INCREMENT,
+  `q_id` int(11) NOT NULL,
+  `answer` varchar(16) NOT NULL,
+  PRIMARY KEY (`result_id`,`q_id`),
+  KEY `q_id` (`q_id`),
+  CONSTRAINT `questionStats_ibfk_1` FOREIGN KEY (`q_id`) REFERENCES `questions` (`q_id`) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 |

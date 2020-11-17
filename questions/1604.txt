@@ -1,0 +1,6 @@
+16
+Which command performs a trace and outputs hops including PMTU value?
+tracepath
+traceroute
+trace
+tracert

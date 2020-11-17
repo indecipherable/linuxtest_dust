@@ -1,0 +1,6 @@
+05
+Where are temporary files stored while using LiveCD?
+RAM
+HDD/SDD
+LiveCD
+None of the above

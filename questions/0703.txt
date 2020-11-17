@@ -1,0 +1,6 @@
+07
+Which command can be passed to yum to identify a package from a configuration file?
+$ yum provides
+$ yum --get-information
+$ yum --display-information
+$ yum --provides

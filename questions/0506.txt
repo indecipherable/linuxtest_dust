@@ -1,0 +1,6 @@
+05
+Which type of partition is required for the system to boot to it?
+Primary
+Logical
+Extended
+Secondary

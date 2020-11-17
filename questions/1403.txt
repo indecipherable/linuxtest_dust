@@ -1,0 +1,6 @@
+14
+Which `timedatectl` option turns off sync?
+$ timedatectl set-ntp
+$ timedatectl --set-ntp
+$ timedatectl --set-sync
+$ timedatectl set-sync

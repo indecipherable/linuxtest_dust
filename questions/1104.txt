@@ -1,0 +1,6 @@
+11
+Which configuration file specifies which display manager to use in CentOS6?
+/etc/sysconfig/desktop
+/etc/desktop
+/etc/X11/xdm
+/etc/X11/desktop

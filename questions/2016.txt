@@ -1,0 +1,6 @@
+20
+Which file holds the commands executed by a given user?
+~/.bash_history
+/etc/.bash_history
+/var/bash/.bash_history
+/bash_history

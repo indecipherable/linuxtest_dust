@@ -1,0 +1,6 @@
+05
+Which command creates custom partitions in CentOS7 installation?
+I will configure partitioning
+Automatically configure partitioning
+Encrypt my data
+Create Logical Volume

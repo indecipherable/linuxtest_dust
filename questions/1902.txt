@@ -1,0 +1,6 @@
+19
+Which environment variable stores the current shell?
+$SHELL
+$BASH
+$SH
+$TCSH

@@ -1,0 +1,6 @@
+14
+Which file is generated from /usr/share/zoneinfo/<zone>?
+/etc/localtime
+/etc/synczone
+/etc/timedate
+/etc/clock

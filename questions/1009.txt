@@ -1,0 +1,6 @@
+10
+Which command resumes a process from the background and prevents running other processes until the current process completes?
+$ fg
+$ bg
+$ jobs
+$ job

@@ -1,0 +1,6 @@
+03
+What does S refer to when reading runlevel output?
+Single user
+Single sign-on user
+Super user
+Single-entry super user

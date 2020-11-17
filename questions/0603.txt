@@ -1,0 +1,6 @@
+06
+Which log file displays dpkg package-related messages?
+/var/log/dpkg.log
+/var/dpkg/dpkg.log
+/var/dpkg-query/dpkg.log
+/var/log/dpkg.dpkg

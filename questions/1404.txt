@@ -1,0 +1,6 @@
+14
+Which `timedatectl` option sets the time?
+$ timedatectl set-time
+$ timedatectl set-clock
+$ timedatectl set-sync
+$ timedatectl --set-zone

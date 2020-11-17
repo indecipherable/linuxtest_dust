@@ -1,0 +1,6 @@
+20
+What does the * represent in the output of `fdisk -l`?
+The device partition is marked as bootable
+The device partition is marked read-only
+The device partition is unbootable
+The device partition is inaccessible

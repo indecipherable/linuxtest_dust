@@ -1,0 +1,6 @@
+17
+Which `su` option allows for a command to be executed without logging in?
+$ su -c
+$ su -a
+$ su -d
+$ su -l

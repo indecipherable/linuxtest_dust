@@ -1,0 +1,6 @@
+19
+Which command updates the mlocate database?
+$ updatedb
+$ updated
+$ update-database
+$ update-locate

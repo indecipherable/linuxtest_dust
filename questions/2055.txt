@@ -1,0 +1,6 @@
+20
+Which is the first process started by SysV?
+init
+SysV
+ps
+systemd

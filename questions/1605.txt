@@ -1,0 +1,6 @@
+16
+Which keyword is used with `ip route` when creating a gateway of last resort?
+default
+gateway
+0.0.0.0
+route

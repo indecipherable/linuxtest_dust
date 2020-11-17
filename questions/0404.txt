@@ -1,0 +1,6 @@
+04
+which fdisk ui option prints known partition types?
+l # list
+r
+n
+b

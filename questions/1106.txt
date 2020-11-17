@@ -1,0 +1,6 @@
+11
+Which package manager changes display managers in Fedora 28?
+$ system-switch-displaymanager
+$ switch-displaymanager
+$ system-displaymanager
+$ displaymanager-switcher

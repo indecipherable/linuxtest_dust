@@ -1,0 +1,6 @@
+20
+Which `systemctl` option lists only targets?
+-t
+-r
+-type
+-M

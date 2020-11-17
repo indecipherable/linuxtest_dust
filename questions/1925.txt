@@ -1,0 +1,6 @@
+19
+Which option can view crontab file for curent user?
+$ crontab -l
+$ crontab -a
+$ crontab -d
+$ crontab -b

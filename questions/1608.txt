@@ -1,0 +1,6 @@
+16
+Which `netstat` options display IP address and port numbers for open UDP connections, with service and program name?
+$ netstat -ulp
+$ netstat -udp
+$ netstat -u
+$ netstat -t

@@ -1,0 +1,9 @@
+| q_id        | int(11)      | NO   | PRI | NULL              |                             |
+| sec_id      | int(2)       | NO   |     | NULL              |                             |
+| question    | varchar(255) | NO   |     | NULL              |                             |
+| correct_a   | varchar(255) | NO   |     | NULL              |                             |
+| incorrect_1 | varchar(255) | NO   |     | NULL              |                             |
+| incorrect_2 | varchar(255) | NO   |     | NULL              |                             |
+| incorrect_3 | varchar(255) | NO   |     | NULL              |                             |
+| incorrect_4 | varchar(255) | YES  |     | NULL              |                             |
+| created_at  | timestamp    | NO   |     | CURRENT_TIMESTAMP | on update CURRENT_TIMESTAMP |

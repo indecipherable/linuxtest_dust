@@ -1,0 +1,6 @@
+09
+Which kill option displays various SIG terms?
+$ kill -l
+$ kill -
+$ kill -i
+$ kill -d

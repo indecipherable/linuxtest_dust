@@ -1,0 +1,6 @@
+01
+What is the command to view RAM in /proc?
+$ cat /proc/meminfo
+$ tail /proc/free
+$ less /proc/free
+$ cat /proc/RAM

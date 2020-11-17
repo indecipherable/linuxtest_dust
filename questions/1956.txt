@@ -1,0 +1,6 @@
+19
+Which `wc` option displays the total number of words?
+$ wc -w
+$ wc -l
+$ wc -a
+$ wc -c

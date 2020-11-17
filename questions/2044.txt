@@ -1,0 +1,6 @@
+20
+Which command changes group ID of a group?
+$ groupmod
+$ groupadd
+$ gidmod
+$ usermod

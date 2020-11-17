@@ -1,0 +1,6 @@
+20
+Which command can generate a test log message?
+$ logger
+$ log-test
+$ test-log
+$ log

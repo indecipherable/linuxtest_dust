@@ -1,0 +1,6 @@
+18
+Which of the following commands creates a variable to store user input?
+$ read
+$ write
+$ pause
+$ execute

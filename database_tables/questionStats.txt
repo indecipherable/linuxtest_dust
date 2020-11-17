@@ -1,0 +1,3 @@
+| result_id | int(11)     | NO   | PRI | NULL    | auto_increment |
+| q_id      | int(11)     | NO   | PRI | NULL    |                |
+| answer    | varchar(16) | NO   |     | NULL    |                |

@@ -1,0 +1,6 @@
+17
+Which `gpg` syntax encrypts a file?
+$ gpg -e [file]
+$ gpg -d [file]
+$ gpg -r [file]
+$ gpg -a [file]

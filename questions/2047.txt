@@ -1,0 +1,6 @@
+20
+Which of the following must be placed in front of a group inside /etc/sudoers?
+%
+#
+@
+&

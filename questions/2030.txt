@@ -1,0 +1,6 @@
+20
+Which classful range does 172.16.0.1 belong?
+Class B
+CLass D
+Class A
+Class E

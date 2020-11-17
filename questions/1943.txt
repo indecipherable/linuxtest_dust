@@ -1,0 +1,6 @@
+19
+Which command searches for a package in Debian?
+apt-cache
+dpkg
+apt-get
+rpm

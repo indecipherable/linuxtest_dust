@@ -1,0 +1,6 @@
+18
+Which characters identify the start of the line defining an interpreter?
+#!
+#$
+#@
+#^

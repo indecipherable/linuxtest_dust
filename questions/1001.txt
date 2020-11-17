@@ -1,0 +1,6 @@
+10
+Which `ps` command prints niceness values for each process?
+$ ps -l
+$ ps -n
+$ ps -a
+$ ps -x

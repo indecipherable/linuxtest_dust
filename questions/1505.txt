@@ -1,0 +1,6 @@
+15
+Which address is a Class B address?
+128.0.0.1
+223.0.0.1
+127.0.0.1
+10.1.1.1

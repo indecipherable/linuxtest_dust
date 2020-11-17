@@ -1,0 +1,6 @@
+06
+Which option for dpkg is used to add a package?
+$ dpkg -i
+$ dpkg -e
+$ dpkg -r
+$ dpkg -Add  

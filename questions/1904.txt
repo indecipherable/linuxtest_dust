@@ -1,0 +1,6 @@
+19
+Which directory in Ubuntu 18 stores GRUB configuration files?
+/boot/grub/
+/boot/grub2/
+/var
+/etc/default/grub

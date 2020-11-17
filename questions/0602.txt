@@ -1,0 +1,6 @@
+06
+Which option with dpkg-query is used to show a human-readable package description?
+$ dpkg-query -s # as in show
+$ dpkg-query -a
+$ dpkg-query -c
+$ dpkg-query -r

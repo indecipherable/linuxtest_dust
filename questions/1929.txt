@@ -1,0 +1,6 @@
+19
+Which option sets system time from hardware clock?
+$ hwclock --hctosys
+$ hwclock --systchc
+$ hwclock --sys2hc
+$ hwclock --hctohc

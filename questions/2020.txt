@@ -1,0 +1,6 @@
+20
+Which `chage` option is used to define an expiration date?
+$ chage -E [date]
+$ chage -e [date]
+$ chage -l [date]
+$ chage -a [date]

@@ -1,0 +1,6 @@
+20
+Which `ip` command displays a specific interface?
+$ ip a s [iface]
+$ ip a d [iface]
+$ ip a v [iface]
+$ ip a i [iface]

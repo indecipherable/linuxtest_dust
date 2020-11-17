@@ -1,0 +1,6 @@
+10
+Which command resumes a process from the background and places it in the background?
+$ bg
+$ fg
+$ jobs
+$ CTRL+C

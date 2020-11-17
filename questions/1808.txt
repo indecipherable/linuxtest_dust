@@ -1,0 +1,6 @@
+18
+Which options check for a condition when using `select`?
+where
+from
+if
+JOIN

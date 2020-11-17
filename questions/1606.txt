@@ -1,0 +1,6 @@
+16
+Which command performs a DNS query for a given domain?
+$ dig
+$ ping
+$ traceroute
+$ dnsq

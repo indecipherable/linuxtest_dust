@@ -1,0 +1,6 @@
+09
+Which `service` option can reread a process configuration?
+$ service [service] reload
+$ service [service] status
+$ service [service] stop
+$ service [service] reboot

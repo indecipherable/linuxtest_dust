@@ -1,0 +1,6 @@
+18
+Which command can change a value using `mysql`?
+UPDATE
+INSERT
+DELETE
+JOIN

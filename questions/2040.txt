@@ -1,0 +1,6 @@
+20
+Which mysql select statement is correct?
+select * from netaccess where set=public_places
+select * from netaccess where custID=\'Philip\'
+select * from netaccess where CustID=Philip
+select * from netaccess update set custID=Philip

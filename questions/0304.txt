@@ -1,0 +1,6 @@
+03
+What does N refer to when reading runlevel output?
+Previous runlevel before it changed to current runlevel
+Current runlevel
+Previous runlevel before it changed to previous runlevel
+Runlevel currently in use

@@ -1,0 +1,5 @@
+| sections | CREATE TABLE `test_sections` (
+  `sec_id` int(2) NOT NULL,
+  `sec_name` varchar(64) DEFAULT NULL,
+  PRIMARY KEY (`sec_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 |

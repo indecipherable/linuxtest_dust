@@ -1,0 +1,6 @@
+12
+Which `passwd --status` command output indicates a locked account?
+L
+A
+P
+N

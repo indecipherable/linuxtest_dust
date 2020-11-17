@@ -1,0 +1,6 @@
+20
+Which command handles system log files in a Fedora 28 distribution?
+journalctl
+log
+log.service
+logging.service

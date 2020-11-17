@@ -1,0 +1,6 @@
+01
+Which command displays modules currently loaded in a Linux kernel?
+$ lsmod
+$ insmod
+$ rmmod
+$ depmod

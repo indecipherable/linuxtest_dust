@@ -1,0 +1,6 @@
+12
+Which `chage` command option prints account expiration settings?
+$ chage -l
+$ chage -a
+$ chage -c
+$ chage -d

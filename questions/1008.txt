@@ -1,0 +1,6 @@
+10
+After running `renice` what is the expected output?
+PID
+Process name
+Process name + PID
+None of the above

@@ -1,0 +1,6 @@
+14
+Which `date` option sets the date?
+$ date -s
+$ date -S
+$ date -t
+$ date -u

@@ -1,0 +1,6 @@
+10
+Which of the following values is not a valid niceness value?
+20
+19
+-19
+-20

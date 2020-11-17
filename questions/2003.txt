@@ -1,0 +1,6 @@
+20
+Which is the correct method to shutdown an interface?
+ifconfig ensX down
+ifconfig down ensX
+ifconfig ensX shutdown
+ifconfig shutdown ensX

@@ -1,0 +1,6 @@
+06
+Which option is used to update the package list using aptitude?
+$ aptitude update
+$ aptitude purge
+$ aptitude clean
+$ aptitude --clean

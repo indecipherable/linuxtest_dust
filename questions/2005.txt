@@ -1,0 +1,6 @@
+20
+Which is the correct way to remove an IP using `ip`?
+ip a del 10.10.10.1/24 dev ensX
+ip a 10.10.10.1/24 del dev ensX
+ip a 10.10.10.1/24 dev ensX del
+ip del a 10.10.10.1/24 dev ensX

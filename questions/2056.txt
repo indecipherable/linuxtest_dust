@@ -1,0 +1,6 @@
+20
+Which symbolic file is linked to /boot/grub/grub.conf?
+/boot/grub/menu.lst
+/boot/grub.d/menu.lst
+/boot/grub2/grub.cfg
+/boot/grub/grub2.cfg

@@ -1,0 +1,6 @@
+20
+In which configuration file should mount points be placed so that they are auto-mounted on boot?
+/etc/fstab
+/etc/mounts.conf
+/etc/auto.mount.cfg
+/etc/mn.conf

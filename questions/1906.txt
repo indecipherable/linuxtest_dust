@@ -1,0 +1,6 @@
+19
+Which characters can be used to test 2 conditions and return TRUE if both are true?
+&&
+||
+//
+==

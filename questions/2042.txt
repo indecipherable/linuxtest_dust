@@ -1,0 +1,6 @@
+20
+Which of the following IPv6 addresses represents the link-local IPv6 range?
+fe80::/10
+fc00::/7
+fd80::/7
+ff00::/10

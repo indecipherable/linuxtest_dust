@@ -1,0 +1,6 @@
+02
+What starts a custom menu entry when adding an entry in GRUB2?
+menuentry
+title
+root = /vmlinuz/
+menu entry

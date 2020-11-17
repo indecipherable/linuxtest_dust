@@ -1,0 +1,6 @@
+19
+Which port does FTP use for command traffic?
+TCP 21
+UDP 21
+TCP 20
+UDP 20

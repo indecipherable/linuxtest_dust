@@ -1,0 +1,6 @@
+20
+Which `netstat` command option displays only TCP connections?
+$ netstat -t
+$ netstat -u
+$ netstat -r
+$ netstat -c

@@ -1,0 +1,6 @@
+07
+Which yum command updates the system?
+$ yum update
+$ yum auto-update
+$ yum clean update
+$ yum purge update

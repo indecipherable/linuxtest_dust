@@ -1,0 +1,6 @@
+04
+Which fdisk ui otoption writes changes?
+w
+q
+c
+d

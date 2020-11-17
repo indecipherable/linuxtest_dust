@@ -1,0 +1,6 @@
+02
+Which command lists processes running in a CentOS7 distro?
+$ systemctl list-unit-files
+$ systemd list-unit-files
+$ systemX list-unit-files
+$ service status unit-files

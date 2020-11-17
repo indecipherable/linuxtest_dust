@@ -1,0 +1,6 @@
+19
+Which command displays messages which were generated during boot?
+$ dmesg
+$ echo
+$ message
+$ anacron

@@ -1,0 +1,6 @@
+20
+Which `parted` option is used to change the size of a partition?
+resizepart
+changesizepart
+sizeresizepart
+sizechangepart

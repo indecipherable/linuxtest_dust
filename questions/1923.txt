@@ -1,0 +1,6 @@
+19
+Which command should be used to edit /etc/sudoers?
+$ visudo
+$ visualdo
+$ nano
+$ vim.tiny

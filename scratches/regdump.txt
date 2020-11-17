@@ -1,0 +1,5 @@
+$ python3 pys/009.2_ask_question.py
+Which section do you want to do? 3
+You want to look at section '3', cool
+Segmentation fault (core dumped)
+

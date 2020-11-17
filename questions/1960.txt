@@ -1,0 +1,6 @@
+19
+Which command can be used to resume a paused job and place it in the background running?
+$ bg
+$ fg
+$ gb
+$ gf

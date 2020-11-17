@@ -1,0 +1,6 @@
+01
+Which command displays swap partition info?
+$ swapon
+$ mkswap
+$ swap
+$ swapoff

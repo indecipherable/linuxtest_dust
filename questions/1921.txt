@@ -1,0 +1,6 @@
+19
+What is the cron service called in Fedora 28?
+crond.service
+cron.service
+cron-daemon.service
+crond.daemon.service

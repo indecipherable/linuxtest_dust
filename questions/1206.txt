@@ -1,0 +1,6 @@
+12
+`useradd` command is a symbolic link to which command in Fedora 28?
+$ user-add
+$ adduser
+$ add-user
+$ user-mod

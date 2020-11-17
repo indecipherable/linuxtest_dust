@@ -1,0 +1,6 @@
+16
+Which command scans a system to expose services and their port numbers?
+$ nmap
+$ traceroute
+$ dig
+$ ip

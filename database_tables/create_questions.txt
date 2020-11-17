@@ -1,0 +1,12 @@
+| questions | CREATE TABLE `test_questions` (
+  `q_id` int(11) NOT NULL,
+  `sec_id` int(2) NOT NULL,
+  `question` varchar(255) NOT NULL,
+  `correct_a` varchar(255) NOT NULL,
+  `incorrect_1` varchar(255) NOT NULL,
+  `incorrect_2` varchar(255) NOT NULL,
+  `incorrect_3` varchar(255) NOT NULL,
+  `incorrect_4` varchar(255) DEFAULT NULL,
+  `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`q_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 |

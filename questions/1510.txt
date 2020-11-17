@@ -1,0 +1,6 @@
+15
+Which port does HTTP service use?
+TCP 80
+TCP 10
+UDP 80
+UDP 69

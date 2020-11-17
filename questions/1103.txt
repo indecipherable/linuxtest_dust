@@ -1,0 +1,6 @@
+11
+Which configuration file controls resources for XDM?
+Xaccess
+Xresources
+Xsession
+Xdisplay

@@ -1,0 +1,6 @@
+05
+Which is the default SOFTWARE SELECTION for CentOS7?
+Minimal Install
+GNOME Desktop
+KDE Desktop
+XFCE Desktop

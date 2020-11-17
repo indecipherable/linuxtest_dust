@@ -1,0 +1,6 @@
+11
+Which `dnf` option can install KDE desktop as a complete package?
+$ dnf groupinstall KDE
+$ dnf --install KDE
+$ dnf --group KDE
+$ dnf --install-group KDE

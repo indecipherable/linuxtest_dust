@@ -1,0 +1,6 @@
+20
+Which file does `ifup` check when the command is issued?
+/etc/network/sysconfig
+/etc/networking/interfaces
+/etc/network/interfaces
+/etc/sysconfig/network/interfaces

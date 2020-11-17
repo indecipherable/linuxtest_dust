@@ -1,0 +1,6 @@
+14
+Which command sends an rsyslog client verification to the rsyslog server?
+$ rsyslog logger
+$ rsyslog send-message
+$ rsyslog nc
+$ rsyslog logrotate

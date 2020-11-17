@@ -1,0 +1,6 @@
+16
+Which file holds hostname value for the system?
+/etc/hostname
+/etc/hosts
+/etc/hostname/hosts
+/var/log/hosts

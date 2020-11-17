@@ -1,0 +1,6 @@
+02
+Where is the bootloader located on the hard disk?
+The boot sector
+The secondary partition
+The logical partition
+The logical volume

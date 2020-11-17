@@ -1,0 +1,6 @@
+20
+Which `ip link` option defines a type?
+ip link set type type
+ip link set --type type
+ip link set --link-type type
+ip link set --type-id type

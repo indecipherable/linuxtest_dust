@@ -1,0 +1,6 @@
+15
+Which address is the IPv4 loopback address?
+127.0.0.1
+224.0.0.1
+172.16.0.1
+192.1.1.1

@@ -1,0 +1,6 @@
+20
+Which `sudo` option invalidates a user\'s cached credentials?
+$ sudo -k
+$ sudo -k [credential]
+$ sudo -K remove
+$ sudo -K [credential]

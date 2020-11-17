@@ -1,0 +1,6 @@
+19
+Which value represents RWX permissions for a file?
+7
+4
+5
+1

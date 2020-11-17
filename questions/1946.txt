@@ -1,0 +1,6 @@
+19
+Which character can run a command in the background?
+&
+#
+!
+%

@@ -1,0 +1,6 @@
+20
+Which `df` option is used to display information in a human readable format?
+$ df -h
+$ df -c
+$ df -r
+$ df -h 

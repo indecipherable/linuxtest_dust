@@ -1,0 +1,6 @@
+19
+Which command changes file ownership?
+$ chown
+$ chmod
+$ chwn
+$ chmd

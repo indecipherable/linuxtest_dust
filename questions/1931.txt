@@ -1,0 +1,6 @@
+19
+Which options can reboot a system using `shutdown`?
+$ shutdown -r
+$ shutdown -s
+$ shutdown -c
+$ shutdown -a

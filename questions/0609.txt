@@ -1,0 +1,6 @@
+06
+Which apt option is used to remove a package and its configuration?
+$ apt-get purge [package]
+$ apt-get search [package]
+$ apt-get -update [package]
+$ apt-get clean

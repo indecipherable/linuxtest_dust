@@ -1,0 +1,6 @@
+06
+Which option is used to update the apt cache?
+$ apt-get update
+$ apt-get -c
+$ apt-get upgrade
+$ apt-get -u

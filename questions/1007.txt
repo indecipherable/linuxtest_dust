@@ -1,0 +1,6 @@
+10
+Which command needs to be run after editing a `systemd` service file?
+$ systemctl daemon-reload
+$ systemctl --daemon-reload
+$ systemctl daemon --reload
+$ systemctl daemonreload

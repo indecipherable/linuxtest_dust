@@ -1,0 +1,6 @@
+12
+Which command is used to change a group password?
+$ groupmod [group] -p
+$ adduser [group] -p
+$ groupedit [group] -p
+$ grouppasswd [group] -p

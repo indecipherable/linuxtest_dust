@@ -1,0 +1,6 @@
+05
+What option allows us to create partitions under INSTALLATION TYPE?
+Something else
+Erase the entire hard disk
+Copy the entire hard disk
+Encrypt the entire hard disk

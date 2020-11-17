@@ -1,0 +1,6 @@
+15
+What is the IPv6 multicast notation? 
+ff00::/8
+fc0e::/8
+fce::/7
+fd0:/9 

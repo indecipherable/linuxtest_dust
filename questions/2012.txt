@@ -1,0 +1,6 @@
+20
+Which syntax properly defines a variable?
+a=1
+a=Loop Free
+a= 1 2 3
+a=#1

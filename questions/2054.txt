@@ -1,0 +1,6 @@
+20
+Which `dpkg` option displays files owned by a package?
+$ dpkg -L [package]
+$ dpkg -l [package]
+$ dpkg -a [package]
+$ dpkg -s [package]

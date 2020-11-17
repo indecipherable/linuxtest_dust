@@ -1,0 +1,6 @@
+04
+Which fdisk option lists disk partitions without the UI?
+$ fdisk -l /dev/sdx
+$ fdisk -a /dev/sdx
+$ fdisk -c /dev/sdx
+$ fdisk -r /dev/sdx

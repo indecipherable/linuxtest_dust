@@ -1,0 +1,6 @@
+20
+What `lsblk` option can display information such as UUIDs of drives?
+$ lsblk -f [/dev/vdaX]
+$ lsblk -l [/dev/vdaX]
+$ lsblk -a [/dev/vdaX]
+$ lsblk -i [/dev/vdaX]

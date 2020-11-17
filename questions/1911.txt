@@ -1,0 +1,6 @@
+19
+Which value represents RW permissions for a file?
+6
+4
+7
+1

@@ -1,0 +1,6 @@
+02
+What starts a custom menu entry when adding an entry in GRUB?
+title
+menu entry
+Operating System
+default =0

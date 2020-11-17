@@ -1,0 +1,6 @@
+14
+Which `journalctl` command lists logs for a daemon?
+$ journalctl -u [daemon]
+$ journalctl -e [daemon]
+$ journalctl -b [daemon]
+$ journalctl -a [daemon]

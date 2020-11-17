@@ -1,0 +1,6 @@
+16
+Which `ifconfig` option displays all (active and inactive) interfaces?
+$ ifconfig -a
+$ ifconfig -s
+$ ifconfig -d
+$ ifconfig -A

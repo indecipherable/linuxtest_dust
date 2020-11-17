@@ -1,0 +1,6 @@
+19
+Which option can be used to display statistics about a package using `apt-cache`?
+$ apt-cache stats
+$ apt-cache statistics
+$ apt-cache stat
+$ apt-cache -s

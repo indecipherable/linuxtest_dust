@@ -1,0 +1,6 @@
+20
+Which option is used to change the partition type using `fdisk`?
+t
+l
+n
+d

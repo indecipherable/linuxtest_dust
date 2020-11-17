@@ -1,0 +1,6 @@
+08
+Which command prints the current working directory?
+$ pwd
+$ print dir
+$ chage [dir]
+$ cd [dir]

@@ -1,0 +1,6 @@
+19
+What is a common setting found in the BIOS?
+Boot options
+Kernel options
+initram options
+GRUB2 options

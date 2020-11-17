@@ -1,0 +1,6 @@
+15
+Which address is an IPv6 loopback address?
+::1/128
+::0/1
+::0/0
+::128/128

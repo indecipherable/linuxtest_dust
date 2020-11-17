@@ -1,0 +1,6 @@
+11
+Which configuration file in Ubuntu 10 displays the default display manager?
+/etc/X11/default-display-manager
+/etc/desktop
+/etc/preferdm
+/default-display-manager

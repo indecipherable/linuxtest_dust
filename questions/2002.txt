@@ -1,0 +1,6 @@
+20
+Which designation is IP information categorized in `ifonfig` or `ip`?
+inet
+inet6
+int
+int6

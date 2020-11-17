@@ -1,0 +1,6 @@
+02
+In which directory is the GRUB configuration file located in CentOS5 distro?
+/boot/grub/
+/boot/
+/grub/boot/
+/grub/grub-config/

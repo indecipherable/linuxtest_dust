@@ -1,0 +1,6 @@
+08
+Which command removes a directory that\'s not empty?
+$ rm [dir]
+$ rmdir [dir]
+$ remove [dir]
+$ mv [dir] [loc]

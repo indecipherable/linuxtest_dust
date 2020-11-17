@@ -1,0 +1,6 @@
+19
+Which file contains stored alias pointers?
+.bashrc
+.bash_logout
+.bash_history
+.bash_login

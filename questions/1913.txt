@@ -1,0 +1,6 @@
+19
+Which `timedatectl` option displays all available timezones?
+$ timedatectl list-timezones
+$ timedatectl list-timezone
+$ timedatectl --list-timezones
+$ timedatectl --list-time-zones

@@ -1,0 +1,6 @@
+01
+Which command activates a swap file?
+$ swapon
+$ Swap
+$ onSwap
+$ swap

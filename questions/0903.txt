@@ -1,0 +1,6 @@
+09
+Which ps option prints output in a hierarchical layout?
+$ ps --forest
+$ ps --tree
+$ ps -forest
+$ ps -tree

@@ -1,0 +1,6 @@
+19
+Which command can display shared library information for a given command?
+$ ldd [/bin/zsh]
+$ ldconfig [/bin/zsh]
+$ ld [/bin/zsh]
+$ libconfig [/bin/zsh]

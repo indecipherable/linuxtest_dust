@@ -1,0 +1,6 @@
+12
+Which configuration file stores alias inside /etc/skel?
+/etc/skel/.bashrc
+/etc/skel/bash
+/etc/skel/bash_rc
+/etc/skel/.bash_rc

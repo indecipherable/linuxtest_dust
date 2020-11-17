@@ -1,0 +1,6 @@
+06
+Which dpkg option is used to display packages which dpkg manages on a system?
+$ dpkg -l
+$ dpkg -a
+$ dpkg -i
+$ dpkg -d

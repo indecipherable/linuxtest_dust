@@ -1,0 +1,6 @@
+13
+Which word can represent 7 in anacron?
+@weekly
+@daily
+@monthly
+@sunday

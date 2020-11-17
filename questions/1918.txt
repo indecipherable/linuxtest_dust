@@ -1,0 +1,6 @@
+19
+Which keyword sorts descending in a mysql query?
+DESC
+description
+descending
+Descending

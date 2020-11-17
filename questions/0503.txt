@@ -1,0 +1,6 @@
+05
+Which icon on Ubuntu LiveCD desktop starts a fresh installation?
+Install Ubuntu...
+Try Ubuntu and install
+Reboot and start from hard disk
+Fresh install

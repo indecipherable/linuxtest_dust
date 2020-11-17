@@ -1,0 +1,6 @@
+20
+Which command can be used to switch the display manager in a Fedora distribution?
+$ system-switch-displaymanager
+$ system-displaymanager
+$ switch-displaymanager
+$ system-switch-display

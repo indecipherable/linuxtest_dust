@@ -1,0 +1,6 @@
+03
+Which command switches to multi-user target?
+$ systemctl isolate multi-user.target
+$ systemctl isolate target
+$ systemctl isolate-target-multi-user
+$ systemctl isolate-multiuser.target

@@ -1,0 +1,6 @@
+08
+Which directory is the root directory?
+/
+/root/
+/root
+/home/root

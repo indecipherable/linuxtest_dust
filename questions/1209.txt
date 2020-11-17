@@ -1,0 +1,6 @@
+12
+What is the syntax for `groupmod` to change a group UID?
+$ groupmod [group] -u [id]
+$ groups [group] -u [id]
+$ groupadd [group] -u [id]
+$ groupdel [group] -u [id]

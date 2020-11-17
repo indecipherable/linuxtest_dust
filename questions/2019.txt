@@ -1,0 +1,6 @@
+20
+Which option is used to define a shell for a new user with `useradd`?
+$ useradd -s [shell]
+$ useradd -S [shell]
+$ useradd -shell [shell]
+$ useradd -Shell [shell]

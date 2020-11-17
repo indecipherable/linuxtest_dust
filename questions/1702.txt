@@ -1,0 +1,6 @@
+17
+What does `su` stand for?
+superuser
+substitute user
+switch user
+strong user

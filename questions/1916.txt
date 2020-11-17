@@ -1,0 +1,6 @@
+19
+Which command can reconfigure a package in Ubuntu?
+$ dpkg-reconfigure [package]
+$ dpkg--update [package]
+$ dpkg -r [package]
+$ dpkg -e [package]

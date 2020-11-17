@@ -1,0 +1,6 @@
+19
+Which character must be used in front of an equal sign to ensure the condition is NOT TRUE in an IF clause?
+!
++
+>
+<

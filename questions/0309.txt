@@ -1,0 +1,6 @@
+03
+Which command can be used to list the daemons for a given target?
+$ systemctl list-dependencies -type target
+$ systemctl list-dependencies
+$ systemctl list-dependencies -type list
+$ systemctl list-dependencies target

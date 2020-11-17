@@ -1,0 +1,6 @@
+12
+Which `useradd` option allows a user to specify a shell?
+$ useradd -s
+$ useradd -S
+$ useradd -c
+$ useradd -d

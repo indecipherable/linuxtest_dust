@@ -1,0 +1,6 @@
+15
+Which of the following is a Class A address?
+10.0.0.1
+172.0.0.1
+192.0.0.1
+169.254.1.1

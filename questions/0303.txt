@@ -1,0 +1,6 @@
+03
+Which alternate command displays runlevel information?
+who -r
+who -v
+who -l
+who -b

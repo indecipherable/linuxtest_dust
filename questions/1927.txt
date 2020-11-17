@@ -1,0 +1,6 @@
+19
+Which is true of /proc/?
+Changes in /proc/ are implemented in realtime
+Changes to files in /proc/ are not implemented in any way
+Files in /proc/ are meant to be used as comments
+Files in /proc/ cannot be edited

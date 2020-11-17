@@ -1,0 +1,6 @@
+01
+What command tells the system a file is a swap file?
+$ mkswap
+$ doswap
+$ format swap
+$ swap

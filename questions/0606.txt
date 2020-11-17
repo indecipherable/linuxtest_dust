@@ -1,0 +1,6 @@
+06
+Which dpkg option removes a package along with its configuration files?
+$ dpkg -P
+$ dpkg -e
+$ dpkg-e
+$ dpkg -a

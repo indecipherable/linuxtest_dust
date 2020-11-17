@@ -1,0 +1,6 @@
+01
+Which command shows CPU info?
+$ cat /proc/cpuinfo
+$ less /proc
+$ more /proc
+$ cat /proc

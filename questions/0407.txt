@@ -1,0 +1,6 @@
+04
+Which CLI command starts the parted ui?
+$ parted
+$ part -ad
+$ part -ed
+$ part

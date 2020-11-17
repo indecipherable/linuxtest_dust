@@ -1,0 +1,6 @@
+19
+Which command updates GRUB2 in Ubuntu?
+update-grub2
+make-grub
+update-grub-gfxpayload
+grub2-update

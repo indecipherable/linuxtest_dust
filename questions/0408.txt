@@ -1,0 +1,6 @@
+04
+Which command displays a partition table in parted ui?
+print
+display
+parted
+console

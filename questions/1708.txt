@@ -1,0 +1,6 @@
+17
+Which command copies an SSH public key securely to another server?
+$ ssh-copy-id
+$ ssh-copy
+$ ssh-cp
+$ ssh-id-copy

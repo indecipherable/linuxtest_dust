@@ -1,0 +1,6 @@
+20
+Which character is used when no password has been set for a group in /etc/gshadow?
+!
+#
+%
+&

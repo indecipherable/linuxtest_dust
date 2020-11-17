@@ -1,0 +1,6 @@
+19
+Which directory does apt use for sources whenever installing a new package?
+/etc/apt/sources.list
+/etc/apt/sources.d/sources.list
+/etc/apt/apt.sources.list
+/etc/apt/list.sources

@@ -1,0 +1,6 @@
+20
+Which option changes rsyslog to use TCP?
+module(load="imtcp")
+module(load="tcp")
+module("imtcp"=load)
+module("tcp"=load)

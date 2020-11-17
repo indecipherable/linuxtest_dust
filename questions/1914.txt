@@ -1,0 +1,6 @@
+19
+Which character must be placed in front of the H when setting the hour using `date`?
+%
+$
+#
+@

@@ -1,0 +1,6 @@
+17
+Which `gpg` options provide the identity?
+$ gpg -r
+$ gpg -f
+$ gpg -e
+$ gpg -a

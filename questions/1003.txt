@@ -1,0 +1,6 @@
+10
+Which `top` column represents process niceness?
+NI
+ni
+PNI
+pnic

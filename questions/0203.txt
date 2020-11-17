@@ -1,0 +1,6 @@
+02
+Which command displays processes starting from parent process followed by child processes?
+$ pstree
+$ dnf
+$ systemctl
+$ ps

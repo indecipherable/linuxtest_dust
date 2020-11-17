@@ -1,0 +1,6 @@
+20
+In which configuration file is name servers defined?
+/etc/resolv.conf
+/etc/hosts
+/etc/name.conf
+/etc/dig.conf

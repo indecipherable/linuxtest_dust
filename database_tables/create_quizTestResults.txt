@@ -1,0 +1,9 @@
+| quizTestResults | CREATE TABLE `test_quizTestResults` (
+  `session_id` int(11) NOT NULL AUTO_INCREMENT,
+  `q_count` int(2) DEFAULT NULL,
+  `q_correct` int(2) DEFAULT NULL,
+  `q_unsure` int(2) DEFAULT NULL,
+  `test_start` date DEFAULT NULL,
+  `test_complete` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`session_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 |

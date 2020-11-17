@@ -1,0 +1,6 @@
+14
+Which `date` regular expression sets the time only?
+$ date +%T
+$ date -$%t
+$ date -$t
+$ date +$T

@@ -1,0 +1,6 @@
+19
+Which number enters rescue mode in `init` levels?
+1
+2
+7
+6

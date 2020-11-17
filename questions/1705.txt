@@ -1,0 +1,6 @@
+17
+Which symbol has to be in front of a group in /etc/sudoers? 
+%
+-
+^
+-$

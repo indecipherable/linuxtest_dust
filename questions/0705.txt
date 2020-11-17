@@ -1,0 +1,6 @@
+07
+Which yum command removes unneeded temp files?
+$ yum clean all
+$ yum remove cache
+$ yum clean temp
+$ yum remove temp

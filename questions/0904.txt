@@ -1,0 +1,6 @@
+09
+Which ps command specifies a user process?
+$ ps -u
+$ ps -x
+$ ps -a
+$ ps -d

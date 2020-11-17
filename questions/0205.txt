@@ -1,0 +1,6 @@
+02
+Which process replaces init in newer Linux releases?
+systemd
+telinit
+systemctl
+systemb

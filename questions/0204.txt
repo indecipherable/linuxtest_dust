@@ -1,0 +1,6 @@
+02
+Which is the first process that starts on a CentOS5 OS?
+init
+systemd
+kickstart
+upstart

@@ -1,0 +1,6 @@
+20
+Which TCP/UDP ports does DNS use?
+53 TCP/UDP
+53 TCP
+110 UDP
+53 ICMP

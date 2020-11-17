@@ -1,0 +1,6 @@
+16
+Which protocol does `ping` use to send and receive messages?
+ICMP
+TFTP
+FTP
+SSH.1.1

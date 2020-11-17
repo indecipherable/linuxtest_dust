@@ -1,0 +1,6 @@
+20
+Which `netstat` option displays the routing table?
+$ netstat -r
+$ netstat -s
+$ netstat -a
+$ netstat -d

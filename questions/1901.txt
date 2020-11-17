@@ -1,0 +1,6 @@
+19
+Which of the following passwords is secure?
+t%h@)_14!*!
+password123
+abcdefgh
+12345678

@@ -1,0 +1,6 @@
+19
+Which `file` options enumerate properties of disk paths in /dev/?
+$ file -s /dev/hda{,1,2,3,}
+$ file -S /dev/hda{,1,2,3,}
+$ file -z /dev/hda{,1,2,3,}
+$ file -c /dev/hda{,1,2,3,}
