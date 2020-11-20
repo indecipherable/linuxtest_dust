@@ -1,6 +1,0 @@
-01
-Which directory is created as a virtual filesystem?
-/dev
-/lib
-/proc
-/bin
